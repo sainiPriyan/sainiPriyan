@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Priyanshu Saini**.
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Robotics, and programming in general.
 - 🌱 I’m enrolled in **B.Tech in Computer Science Engineering** specializing in Artificial Intelligence and Machine Learning.
-- 💞️ I’m looking to collaborate on anything related to development at **Manipal University Jaipur**.
+- 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me - Contact me on LinkedIn -> www.linkedin.com/in/priyanshu-saini-112735310.
 - ⭐ GeeksForGeeks profile -> https://www.geeksforgeeks.org/user/priyanshuqr0g/
 - 😄 Pronouns: He/Him
