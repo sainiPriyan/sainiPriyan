@@ -3,6 +3,6 @@
 - 🌱 I’m enrolled in **B.Tech in Computer Science Engineering** specializing in Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
 - 📫 How to reach me - Contact me on LinkedIn -> www.linkedin.com/in/priyanshu-saini-112735310.
-- ⭐ GeeksForGeeks profile -> https://www.geeksforgeeks.org/user/priyanshuqr0g/
+- ⭐ DSA (GeeksForGeeks) profile -> [https://www.geeksforgeeks.org/user/priyanshuqr0g/](http://geeksforgeeks.org/profile/priyanshuqr0g?tab=activity)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Born in 2005.
